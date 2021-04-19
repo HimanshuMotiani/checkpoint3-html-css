@@ -212,6 +212,7 @@ h3{
     font-size: 16px;
     font-weight: 400;
     padding: 10px 0;
+    text-decoration: none;
 
 }
 .stretch{
@@ -810,7 +811,7 @@ font-weight: 400;
 margin: 0;
 
 }
-.image-description h6{
+.image-description time{
     font-size: 14px;
     color: #516172;
 
@@ -826,7 +827,8 @@ margin: 0;
     font-size: 14px;
     padding: 6px 14px;
     border-radius: 3px;
-    margin: 3px 10px
+    margin: 3px 10px;
+    display: inline-block;
 }
 /* .margin-gap{
     margin-bottom: 16px;
